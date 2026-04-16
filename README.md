@@ -1,5 +1,4 @@
 # <p align="center">🌌 StreamSelector AI</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Your+Future+Architect;Precision+Career+Diagnostics;College+Scholarship+Matrix" alt="Typing SVG" />
 </p>
@@ -8,20 +7,22 @@
   <img src="https://img.shields.io/badge/Logic-Weighted_Algorithm-38BDF8?style=for-the-badge&logo=probot&logoColor=white" />
   <img src="https://img.shields.io/badge/UI-3D_Glassmorphism-c084fc?style=for-the-badge&logo=windowsterminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Deployed-Vercel-10b981?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Author-Pooja%20Singh-ec4899?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## ✨ The Vision
-
-**StreamSelector** is a high-performance **Neural Diagnostic Engine** built to eliminate career confusion for Indian students. Designed and developed by **Pooja Singh**, it uses mathematical weighted modeling to analyze academic performance against psychometric affinities — delivering a 100% actionable career roadmap and university dossier.
+**StreamSelector** is a high-performance **Neural Diagnostic Engine** built to eliminate career confusion. Designed for the high-pressure Indian education landscape, it uses mathematical weighted modeling to analyze academic performance against psychometric affinities, delivering a 100% actionable career roadmap and university dossier.
 
 🚀 **[EXPLORE THE LIVE EXPERIENCE](https://student-career-ten.vercel.app/)**
 
 ---
 
 ## 📽️ Interface Preview
+
+<p align="center">
+  <img src="https://github.com/PoojaS/StreamSelector/raw/main/screenshots/hero_preview.gif" width="90%" style="border-radius: 20px; border: 1px solid #38bdf8; box-shadow: 0 0 30px rgba(56,189,248,0.2);" />
+</p>
 
 <table align="center">
   <tr>
@@ -72,15 +73,4 @@ graph LR
 
 ---
 
-## 👩‍💻 Author
-
-<p align="center">
-  <b>Designed & Built by Pooja Singh</b><br/>
-  <a href="https://github.com/PoojaS">
-    <img src="https://img.shields.io/badge/GitHub-PoojaS-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">StreamSelector AI • Built to empower students • HTML, CSS & JS</p>
+<p align="center">Built with 💙 by <b>Pooja Singh</b> • StreamSelector AI • HTML, CSS & JS</p>
